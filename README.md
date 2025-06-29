@@ -1,12 +1,42 @@
-# React + Vite
+React Admin Dashboard 📈
+A scalable, single-page application (SPA) built with React 18.x, designed for administrative task management and data visualization. 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Author: Dimple Gaur 👤
+Framework: React 18.x ⚛️
+Build Tool: Vite
+License: MIT 📜
 
-Currently, two official plugins are available:
+Features ✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Interactive dashboard with time-based filtering (7, 30, 90 days)
+Sortable user table with search and delete operations
+Recharts-based toggleable line/bar charts
+React Big Calendar for event scheduling
+React Beautiful DND for Kanban task management
+Context API-driven light/dark theme with localStorage
+Responsive design with CSS media queries
 
-## Expanding the ESLint configuration
+Prerequisites 🛠️
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Node.js (v14.x or later)
+npm (v6.x or later)
+Git
+
+Installation 🔧
+
+Clone the repository:git clone https://github.com/your-username/react-admin-dashboard.git
+
+
+Install dependencies:cd react-admin-dashboard && npm install
+
+
+
+Usage 🎯
+
+Start the development server:npm run dev
+
+
+Access at: http://localhost:5173
+
+License 📜
+MIT License
