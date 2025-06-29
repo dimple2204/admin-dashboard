@@ -1,5 +1,5 @@
 React Admin Dashboard 📈
-A scalable, single-page application (SPA) built with React 18.x, designed for administrative task management and data visualization. 🚀
+A scalable,  application  built with React 18.x, designed for administrative task management and data visualization. 🚀
 
 Author: Dimple Gaur 👤
 Framework: React 18.x ⚛️
