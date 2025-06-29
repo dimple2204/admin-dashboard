@@ -24,7 +24,7 @@ Git
 
 Installation 🔧
 
-Clone the repository:git clone https://github.com/your-username/react-admin-dashboard.git
+Clone the repository:git clone https://github.com/dimple2204/react-admin-dashboard.git
 
 
 Install dependencies:cd react-admin-dashboard && npm install
